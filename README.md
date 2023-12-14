@@ -31,4 +31,4 @@ Run the program once and ensure the logo generated has the desired properties.
 # Questions:
 For further questions, please contact at [github.com/OC-Kai](https://github.com/OC-Kai) or <a href = "mailto:ArthurJStone96@gmail.com">ArthurJStone96@gmail.com</a>.
 
-![Demonstration](./demo/Logo%20Generator%20Demo.webm)
+Video Demonstration: https://drive.google.com/file/d/15tVy6zP5EDNQeuCkYkomZyExRuSyExfP/view
